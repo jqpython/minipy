@@ -1,0 +1,3 @@
+# MiniPy
+
+## Python Mini Projects
