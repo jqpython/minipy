@@ -32,7 +32,7 @@ def main():
             user_input = input("Enter an operator (+ - * /), 'q' to quit: ")
 
             if user_input == "q":
-                print("Goodbye!")
+                print("Goodbye! Have a nice day")
                 break
 
             operators = ["+", "-", "*", "/"]
